@@ -1,0 +1,7 @@
+url: https://github.com/CatLollipop/dsh-composer-draft-cache
+name: CatLollipop/dsh-composer-draft-cache
+category: ui
+icon: https://raw.githubusercontent.com/CatLollipop/dsh-composer-draft-cache/main/assets/icon-180.png
+description:
+  en: 'Caches unsent composer drafts per workspace and per session, restores them after switching away, and drops them once sent or cleared; the cache lives for the current app window only.'
+  zh: '按工作区缓存新会话草稿、按会话缓存历史会话草稿，切换后自动恢复；已发送或已清空的草稿不会再出现。缓存仅在本次应用窗口内有效。'
